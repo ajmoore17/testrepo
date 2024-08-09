@@ -1,5 +1,5 @@
-# testrepo
+# IBM Data Science Project - Predicting SpaceX Launch Costs
 
 ## Editing this file
 
-Its a markdown file in this repository.
+It's a markdown file in this repository.
